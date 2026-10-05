@@ -16,7 +16,7 @@
 
 ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;whoami
 
-I'm **Muiz Ahmed** — a backend-focused engineer building real-world systems around **Telegram, automation, APIs, infrastructure, and AI**.
+I'm **Muiz Ahmed** — **Founder of TeleBotHost**, building real-world systems around **Telegram, automation, APIs, infrastructure, and AI**.
 
 I don't like being locked into a single stack.
 
@@ -82,7 +82,7 @@ AI agents, MCP tooling, model integrations and systems where AI can actually ope
 
 ### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;selected work
 
-**[TeleBotHost](https://telebothost.com)**  
+**[TeleBotHost](https://github.com/TeleBotHost)** — *Founder*
 <br>
 <sub>Free Telegram bot hosting — built, operated and continuously evolved from the ground up.</sub>
 
