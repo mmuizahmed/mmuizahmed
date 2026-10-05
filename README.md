@@ -88,7 +88,7 @@ AI agents, MCP tooling, model integrations and systems where AI can actually ope
 
 <br>
 
-**[Adoxfly](https://github.com/teleservices-api)**  
+**Adoxfly**  
 <br>
 <sub>Building production-grade APIs and infrastructure for Telegram-based services and automation.</sub>
 
