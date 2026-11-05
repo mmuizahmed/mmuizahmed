@@ -14,7 +14,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;whoami
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;whoami
 
 I'm **Muiz Ahmed** — **Founder of TeleBotHost**, building real-world systems around **Telegram, automation, APIs, infrastructure, and AI**.
 
@@ -28,17 +28,17 @@ Currently focused on building systems that can handle **real users, real workloa
 
 <td width="42%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:radar.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;now
+### <img src="https://api.iconify.design/lucide/radar.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;now
 
-<img src="https://api.iconify.design/lucide:bot.svg?color=%236e6e6e&height=15" valign="middle"/> Going deep on **AI agents & MCP**
+<img src="https://api.iconify.design/lucide/bot.svg?color=%236e6e6e&height=15" valign="middle"/> Going deep on **AI agents & MCP**
 
-<img src="https://api.iconify.design/lucide:server.svg?color=%236e6e6e&height=15" valign="middle"/> Designing **scalable backend infrastructure**
+<img src="https://api.iconify.design/lucide/server.svg?color=%236e6e6e&height=15" valign="middle"/> Designing **scalable backend infrastructure**
 
-<img src="https://api.iconify.design/lucide:send.svg?color=%236e6e6e&height=15" valign="middle"/> Building around the **Telegram ecosystem**
+<img src="https://api.iconify.design/lucide/send.svg?color=%236e6e6e&height=15" valign="middle"/> Building around the **Telegram ecosystem**
 
-<img src="https://api.iconify.design/lucide:cloud.svg?color=%236e6e6e&height=15" valign="middle"/> Running and scaling production VPS infrastructure
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%236e6e6e&height=15" valign="middle"/> Running and scaling production VPS infrastructure
 
-<img src="https://api.iconify.design/lucide:hammer.svg?color=%236e6e6e&height=15" valign="middle"/> Building **TeleBotHost**
+<img src="https://api.iconify.design/lucide/hammer.svg?color=%236e6e6e&height=15" valign="middle"/> Building **TeleBotHost**
 
 </td>
 </tr>
@@ -48,13 +48,13 @@ Currently focused on building systems that can handle **real users, real workloa
 
 ---
 
-### <img src="https://api.iconify.design/lucide:layers-3.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;what I build
+### <img src="https://api.iconify.design/lucide/layers-3.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;what I build
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:send.svg?color=%236e6e6e&height=16" valign="middle"/> Telegram
+### <img src="https://api.iconify.design/lucide/send.svg?color=%236e6e6e&height=16" valign="middle"/> Telegram
 
 Telegram bots, automation systems, bot hosting, account infrastructure, APIs and services built around the Telegram ecosystem.
 
@@ -62,7 +62,7 @@ Telegram bots, automation systems, bot hosting, account infrastructure, APIs and
 
 <td width="33%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:server.svg?color=%236e6e6e&height=16" valign="middle"/> Backend
+### <img src="https://api.iconify.design/lucide/server.svg?color=%236e6e6e&height=16" valign="middle"/> Backend
 
 Production APIs, workers, queues, databases, authentication, monitoring, distributed workloads and automation.
 
@@ -70,7 +70,7 @@ Production APIs, workers, queues, databases, authentication, monitoring, distrib
 
 <td width="33%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%236e6e6e&height=16" valign="middle"/> AI
+### <img src="https://api.iconify.design/lucide/sparkles.svg?color=%236e6e6e&height=16" valign="middle"/> AI
 
 AI agents, MCP tooling, model integrations and systems where AI can actually operate software instead of just chatting about it.
 
@@ -80,7 +80,7 @@ AI agents, MCP tooling, model integrations and systems where AI can actually ope
 
 ---
 
-### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;selected work
+### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;selected work
 
 **[TeleBotHost](https://github.com/TeleBotHost)** — *Founder*
 <br>
@@ -104,7 +104,7 @@ AI agents, MCP tooling, model integrations and systems where AI can actually ope
 
 ---
 
-### <img src="https://api.iconify.design/lucide:cpu.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;stack
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;stack
 
 <table>
 <tr>
@@ -144,7 +144,7 @@ AI agents, MCP tooling, model integrations and systems where AI can actually ope
 
 ---
 
-### <img src="https://api.iconify.design/lucide:activity.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;engineering philosophy
+### <img src="https://api.iconify.design/lucide/activity.svg?color=%236e6e6e&height=17" valign="middle"/>&nbsp;&nbsp;engineering philosophy
 
 ```text
 Don't know it?
